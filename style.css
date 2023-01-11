@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Great+Vibes&family=Kaushan+Script&family=Noto+Sans:wght@400;500;700&family=Public+Sans:wght@100;200;300&display=swap");
 body{
     background-color: antiquewhite;
 }
@@ -10,7 +11,7 @@ body{
 }
 
 nav{
-    font-family: 'Ubuntu', sans-serif;
+    font-family: "Kaushan Script", cursive;
 }
 
 nav ul{
@@ -26,7 +27,7 @@ nav ul li{
     padding: 0 12px;
 }
 .brand img{
-    width: 44px;
+    width: 50px;
     padding: 0 8px;
 }
 
